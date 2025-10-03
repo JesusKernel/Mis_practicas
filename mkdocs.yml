@@ -1,0 +1,10 @@
+site_name: Mis prácticas
+nav:
+  - Inicio:  index.md
+  - Práctica 1:  Ejercicio1.md
+  - Práctica 2:  Ejercicio2.md
+  - Práctica 3:  Ejercicio3.md
+  - Práctica 4:  Ejercicio4.md
+  - Práctica 5:  Ejercicio5.md
+theme:
+  name:  material
