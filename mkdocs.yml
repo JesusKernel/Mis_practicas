@@ -9,5 +9,7 @@ nav:
   - Práctica 6:  Ejercicio6.md
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 theme:
   name:  material
