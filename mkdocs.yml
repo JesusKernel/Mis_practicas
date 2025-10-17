@@ -7,5 +7,7 @@ nav:
   - Práctica 4:  Ejercicio4.md
   - Práctica 5:  Ejercicio5.md
   - Práctica 6:  Ejercicio6.md
+markdown_extensions:
+  - attr_list
 theme:
   name:  material
